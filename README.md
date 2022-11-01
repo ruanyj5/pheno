@@ -16,7 +16,7 @@
 ### ./sos.sh #(program to run EOS)
 ### ./eos.sh #
 ## 7) EOS. Tif is the result of phenology. Contains 6 layers, 6 phenology results. The results correspond to the 6 algorithms in the following table:
-![Image don't exsit!](https://github.com/ruanyj5/phen0/blob/main/Algorithm%20Introduction%20.jpg)
+![Image don't exsit!]https://github.com/ruanyj5/phenoC/blob/main/Algorithm%20Introduction.png)
 
 # Result maps
 
@@ -54,7 +54,7 @@ If any scientific research team needs to refer to this program, please add the r
 ### ./sos.sh #(运行EOS的程序 )
 ### ./eos.sh #(运行SOS的程序 )
 ## 7) EOS.tif  是物候的结果。包含6个图层，6种物候的结果。结果分别对应以下表格的6种算法：
-![图片不存在!](https://github.com/ruanyj5/phen0/blob/main/Algorithm%20Introduction%20.jpg)
+![图片不存在!](https://github.com/ruanyj5/phenoC/blob/main/Algorithm%20Introduction.png)
 
 # 结果图
 
