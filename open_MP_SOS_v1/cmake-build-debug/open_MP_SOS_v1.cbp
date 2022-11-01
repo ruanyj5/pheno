@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="open_MP_SOS_v1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="open_MP_SOS_v1">
+				<Option output="/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/open_MP_SOS_v1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 open_MP_SOS_v1"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="open_MP_SOS_v1/fast">
+				<Option output="/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/open_MP_SOS_v1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 open_MP_SOS_v1/fast"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/home/yongjian/Desktop/code/open_MP_SOS_v1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/NDVI46to365.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/NDVI46to365.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/NDVI46to365_data.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/NDVI46to365_data.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/NDVI46to365_initialize.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/NDVI46to365_initialize.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/NDVI46to365_terminate.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/NDVI46to365_terminate.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/diff.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/diff.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/fillmissing.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/fillmissing.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/interp1.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/interp1.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/isLocalExtrema.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/isLocalExtrema.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/islocalmax.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/islocalmax.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/main.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/mean.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/mean.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/mpfit.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/mpfit.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/nullAssignment.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/nullAssignment.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/phen_6method.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/phen_6method.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/rtGetInf.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/rtGetInf.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/rtGetNaN.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/rtGetNaN.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/rt_nonfinite.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/rt_nonfinite.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/sort.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/sort.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/sortIdx.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/sortIdx.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/home/yongjian/Desktop/code/open_MP_SOS_v1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

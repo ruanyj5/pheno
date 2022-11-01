@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="open_MP_EOS_v1" targetName="open_MP_EOS_v1" />
+      <config projectName="open_MP_EOS_v1" targetName="open_MP" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0363741c-1fbb-46c4-8a61-6e43cccd4b89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aZYecG5nIii2UkRASiQfSGJxOO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../open_MP_SOS_v1" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="open_MP_EOS_v1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="open_MP_EOS_v1" TARGET_NAME="open_MP_EOS_v1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="open_MP_EOS_v1" RUN_TARGET_NAME="open_MP_EOS_v1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0363741c-1fbb-46c4-8a61-6e43cccd4b89" name="Default Changelist" comment="" />
+      <created>1586944679452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586944679452</updated>
+      <workItem from="1586944682400" duration="4686000" />
+      <workItem from="1586965036510" duration="899000" />
+      <workItem from="1586965996189" duration="6457000" />
+      <workItem from="1586972620338" duration="2885000" />
+      <workItem from="1587006350853" duration="31646000" />
+      <workItem from="1587351259835" duration="4014000" />
+      <workItem from="1587434495821" duration="24200000" />
+      <workItem from="1587539967628" duration="8053000" />
+      <workItem from="1587555496195" duration="20000" />
+      <workItem from="1587555559799" duration="5252000" />
+      <workItem from="1587570065935" duration="714000" />
+      <workItem from="1587571001014" duration="56000" />
+      <workItem from="1587607624558" duration="425000" />
+      <workItem from="1587608083764" duration="320000" />
+      <workItem from="1587609140899" duration="163000" />
+      <workItem from="1587612496715" duration="668000" />
+      <workItem from="1588396504987" duration="84000" />
+      <workItem from="1667285856032" duration="148000" />
+      <workItem from="1667286139251" duration="110000" />
+      <workItem from="1667286272599" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="900" y="477" key="FileChooserDialogImpl" timestamp="1667286352334">
+      <screen x="65" y="24" width="2095" height="1416" />
+    </state>
+    <state x="900" y="477" key="FileChooserDialogImpl/65.24.2095.1416@65.24.2095.1416" timestamp="1667286352334" />
+  </component>
+</project>
